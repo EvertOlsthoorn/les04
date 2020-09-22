@@ -45,7 +45,7 @@ _You **can** combine them_
 
 ## Images
 
-![https://markdownlivepreview.com/image/sample.png](/image/sample.png "This is a sample image.")
+![This is all text.](/image/sample.png "This is a sample image.")
 
 ## Links
 
